@@ -5,13 +5,12 @@ Projeto OpenSource de robo baseado na animação da Disney Wall-e, utilizando o 
   <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/ConjuntoEsteira.jpeg" width="300" alt="foto do app">
 </p>
 
+# Hardware
 Requisitos para montagem do robo:
 - Atuadores: um servo e dois motores DC com redução;
 - Alimentação: Bateria com autonomia de 1800mah;
 - Comunicação: módulo bluetooth HC-06;
 - Arduino Uno.
-
-# Hardware
 
 # Firmware
 Possui três códigos de exemplo: 
