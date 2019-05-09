@@ -23,9 +23,9 @@ Possui três códigos de exemplo:
 Na pasta software você encontra um arquivo .apk para baixar para celular. Com esse app você pode se comunicar facilmente com o robo e enviar comandos para movimentação.
 
 <p align="center">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="250" alt="foto do app">
   <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenServo.jpeg" width="250" alt="foto do app">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="250" alt="foto do app">
 </p>
 
 #Mecânica
