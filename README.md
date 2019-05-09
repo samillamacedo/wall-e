@@ -13,13 +13,13 @@ Requisitos para montagem do robo:
 
 # Hardware
 
-#Firmware
+# Firmware
 Possui três códigos de exemplo: 
 - teste dos motores e servos;
 - comunicação bluetooth com servos e motores;
 - comunicação bluetooth somente com servos;
 
-#Software
+# Software
 Na pasta software você encontra um arquivo .apk para baixar para celular. Com esse app você pode se comunicar facilmente com o robo e enviar comandos para movimentação.
 
 <p align="center">
