@@ -1,6 +1,10 @@
 # Walle Arduino Project
 Projeto OpenSource de robo baseado na animação da Disney Wall-e, utilizando o Framework do Arduino.
-![alt text](https://github.com/samillamacedo/wall-e/blob/master/Imagens/Overview.jpeg)
+<p align="center">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/Overview.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/VistaFrontal.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/ConjuntoEsteira.jpeg" width="300" alt="foto do app">
+</p>
 
 Requisitos para montagem do robo:
 - Atuadores: um servo e dois motores DC com redução;
@@ -21,8 +25,9 @@ Possui três códigos de exemplo:
 Na pasta software você encontra um arquivo .apk para baixar para celular. Com esse app você pode se comunicar facilmente com o robo e enviar comandos para movimentação.
 
 <p align="center">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="300" alt="accessibility text">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="300" alt="accessibility text">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenServo.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="300" alt="foto do app">
 </p>
 
 #Mecânica
