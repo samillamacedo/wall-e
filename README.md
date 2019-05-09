@@ -11,7 +11,6 @@ Requisitos para montagem do robo:
 - Comunicação: módulo bluetooth HC-06;
 - Arduino Uno.
 
-O repositório foi dividi
 # Hardware
 
 #Firmware
