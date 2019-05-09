@@ -20,9 +20,9 @@ Possui três códigos de exemplo:
 #Software
 Na pasta software você encontra um arquivo .apk para baixar para celular. Com esse app você pode se comunicar facilmente com o robo e enviar comandos para movimentação.
 
-![alt text](https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg)
 <p align="center">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="350" alt="accessibility text">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="300" alt="accessibility text">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="300" alt="accessibility text">
 </p>
 
 #Mecânica
