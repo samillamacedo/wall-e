@@ -24,7 +24,7 @@ Na pasta software você encontra um arquivo .apk para baixar para celular. Com e
 
 <p align="center">
   <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="300" alt="foto do app">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenServo.jpeg" width="300" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenServo.jpeg" width="250" alt="foto do app">
   <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="300" alt="foto do app">
 </p>
 
