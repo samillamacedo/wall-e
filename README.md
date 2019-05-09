@@ -14,6 +14,7 @@ Requisitos para montagem do robo:
 - Atuadores: um servo e dois motores DC com redução;
 - Alimentação: Bateria com autonomia de 1800mah;
 - Comunicação: módulo bluetooth HC-06;
+- Drive de motor Pololu TB9051;
 - Arduino Uno.
 
 # Firmware
@@ -32,4 +33,7 @@ Na pasta software você encontra um arquivo .apk para baixar para celular. Com e
 </p>
 
 # Mecânica
-Possui todos os arquivos para impressão 3D
+Possui todos os arquivos para impressão 3D, algumas partes possuem furo para encaixe de parafuso, a descrição de todos os parafuso estão apresentadas a seguir:
+- Cabeça: 5 parafusos M6 x 15mm, 1 porca m6;
+- Chassi: 8 parafusos M6 x 15mm, 8 porca m6;
+- Motor: 4 parafusos M4 x 40mm. 
