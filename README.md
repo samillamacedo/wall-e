@@ -1,6 +1,6 @@
 # Walle Arduino Project
 <p align="center">
-  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/Logo.jpeg" width="150" alt="foto do app">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/Logo.png" width="150" alt="foto do app">
 </p>
 Projeto OpenSource de robo baseado na animação da Disney Wall-e, utilizando o Framework do Arduino.
 <p align="center">
