@@ -21,6 +21,9 @@ Possui três códigos de exemplo:
 Na pasta software você encontra um arquivo .apk para baixar para celular. Com esse app você pode se comunicar facilmente com o robo e enviar comandos para movimentação.
 
 ![alt text](https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg)
+<p align="center">
+  <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/AppScreen.jpeg" width="350" alt="accessibility text">
+</p>
 
 #Mecânica
 Possui todos os arquivos para impressão 3D
