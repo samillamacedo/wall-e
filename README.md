@@ -31,5 +31,5 @@ Na pasta software você encontra um arquivo .apk para baixar para celular. Com e
   <img src="https://github.com/samillamacedo/wall-e/blob/master/Imagens/appScreenMotor.jpeg" width="250" alt="foto do app">
 </p>
 
-#Mecânica
+# Mecânica
 Possui todos os arquivos para impressão 3D
